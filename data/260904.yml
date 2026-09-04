@@ -7,7 +7,7 @@ about:
   head: 3b17618
   archived: false
   latestVersion: v0.11.6
-  collectedAt: 2026-09-04T19:58:40Z
+  collectedAt: 2026-09-04T20:40:56Z
 timeline:
   created: 2018-01-14
   lastCommit: 2026-03-11
@@ -80,6 +80,39 @@ total:
   openIssue: 5
   commit: 287
 ---
+path: /home/runner/.x-repo/github.com/claudiodangelis/qrcp
+collectedAt: 2026-09-04T20:40:58Z
+loc:
+  Go:
+    code: 1745
+    comments: 166
+    blanks: 140
+    files: 22
+  Yaml:
+    code: 13
+    comments: 0
+    blanks: 0
+    files: 3
+  Sh:
+    code: 9
+    comments: 1
+    blanks: 0
+    files: 1
+  Svg:
+    code: 1
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 408
+    blanks: 164
+    files: 5
+total:
+  code: 1768
+  comments: 575
+  blanks: 304
+  files: 32
 ---
 date: "2026-08-24"
 repo:
