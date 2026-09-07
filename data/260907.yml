@@ -5,7 +5,7 @@ about:
   head: 3b17618
   archived: false
   latestVersion: "v0.11.6"
-  collectedAt: 2026-09-07T05:58:57Z
+  collectedAt: 2026-09-07T18:39:53Z
 timeline:
   created: 2018-01-14
   lastCommit: 2026-03-11
@@ -17,7 +17,7 @@ popularity:
   release: 29
   contributor: 52
   pullRequest: 181
-  issue: 176
+  issue: 177
 language:
   Go: 301202
 totalBytes: 301202
@@ -28,7 +28,7 @@ recent:
     mergedPR: 0
     openPR: 0
     closedIssue: 0
-    openIssue: 1
+    openIssue: 2
     commit: 0
   last60d:
     since: 2026-07-09
@@ -36,7 +36,7 @@ recent:
     mergedPR: 0
     openPR: 0
     closedIssue: 0
-    openIssue: 1
+    openIssue: 2
     commit: 0
   last90d:
     since: 2026-06-09
@@ -44,7 +44,7 @@ recent:
     mergedPR: 0
     openPR: 0
     closedIssue: 0
-    openIssue: 1
+    openIssue: 2
     commit: 0
   last180d:
     since: 2026-03-11
@@ -52,7 +52,7 @@ recent:
     mergedPR: 0
     openPR: 3
     closedIssue: 0
-    openIssue: 2
+    openIssue: 3
     commit: 0
   last360d:
     since: 2025-09-12
@@ -60,7 +60,7 @@ recent:
     mergedPR: 0
     openPR: 4
     closedIssue: 0
-    openIssue: 2
+    openIssue: 3
     commit: 1
   last720d:
     since: 2024-09-17
@@ -68,18 +68,18 @@ recent:
     mergedPR: 18
     openPR: 7
     closedIssue: 8
-    openIssue: 4
+    openIssue: 5
     commit: 27
 total:
   release: 29
   mergedPR: 126
   openPR: 8
   closedIssue: 171
-  openIssue: 5
+  openIssue: 6
   commit: 287
 ---
 path: /home/runner/.x-repo/github.com/claudiodangelis/qrcp
-collectedAt: 2026-09-07T05:58:59Z
+collectedAt: 2026-09-07T18:39:54Z
 loc:
   Go:
     code: 1745
@@ -214,7 +214,7 @@ checks:
       - 'Warn: 0 commits out of 24 are checked with a SAST tool'
 ---
 eget:
-  collectedAt: 2026-09-07T05:59:01+00:00
+  collectedAt: 2026-09-07T18:39:55+00:00
   platform:
     darwin/arm64:
       name:  qrcp_0.11.6_darwin_arm64.tar.gz
