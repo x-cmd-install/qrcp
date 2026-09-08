@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 4301826,
       "digest": null,
-      "download_count": 1631,
+      "download_count": 1634,
       "created_at": "2025-03-16T11:50:53Z",
       "updated_at": "2025-03-16T11:58:59Z",
       "browser_download_url": "https://github.com/claudiodangelis/qrcp/releases/download/v0.11.6/qrcp_0.11.6_linux_amd64.deb"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 4295200,
       "digest": null,
-      "download_count": 959,
+      "download_count": 960,
       "created_at": "2025-03-16T11:50:52Z",
       "updated_at": "2025-03-16T11:58:59Z",
       "browser_download_url": "https://github.com/claudiodangelis/qrcp/releases/download/v0.11.6/qrcp_0.11.6_linux_amd64.tar.gz"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 4227576,
       "digest": null,
-      "download_count": 1185,
+      "download_count": 1186,
       "created_at": "2025-03-16T11:50:50Z",
       "updated_at": "2025-03-16T11:58:59Z",
       "browser_download_url": "https://github.com/claudiodangelis/qrcp/releases/download/v0.11.6/qrcp_0.11.6_windows_386.zip"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 4421183,
       "digest": null,
-      "download_count": 2359,
+      "download_count": 2362,
       "created_at": "2025-03-16T11:50:50Z",
       "updated_at": "2025-03-16T11:58:59Z",
       "browser_download_url": "https://github.com/claudiodangelis/qrcp/releases/download/v0.11.6/qrcp_0.11.6_windows_amd64.tar.gz"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 4419317,
       "digest": null,
-      "download_count": 1899,
+      "download_count": 1902,
       "created_at": "2025-03-16T11:50:51Z",
       "updated_at": "2025-03-16T11:58:59Z",
       "browser_download_url": "https://github.com/claudiodangelis/qrcp/releases/download/v0.11.6/qrcp_0.11.6_windows_amd64.zip"
@@ -787,7 +787,7 @@
       "state": "uploaded",
       "size": 4017496,
       "digest": null,
-      "download_count": 1062,
+      "download_count": 1063,
       "created_at": "2025-03-16T11:50:51Z",
       "updated_at": "2025-03-16T11:58:59Z",
       "browser_download_url": "https://github.com/claudiodangelis/qrcp/releases/download/v0.11.6/qrcp_0.11.6_windows_arm64.zip"
@@ -859,7 +859,7 @@
       "state": "uploaded",
       "size": 4138609,
       "digest": null,
-      "download_count": 1000,
+      "download_count": 1001,
       "created_at": "2025-03-16T11:50:52Z",
       "updated_at": "2025-03-16T11:58:59Z",
       "browser_download_url": "https://github.com/claudiodangelis/qrcp/releases/download/v0.11.6/qrcp_0.11.6_windows_armv7.zip"
