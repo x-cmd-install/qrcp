@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 4063563,
       "digest": null,
-      "download_count": 188,
+      "download_count": 190,
       "created_at": "2025-03-16T11:50:51Z",
       "updated_at": "2025-03-16T11:58:59Z",
       "browser_download_url": "https://github.com/claudiodangelis/qrcp/releases/download/v0.11.6/qrcp_0.11.6_linux_386.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 4301826,
       "digest": null,
-      "download_count": 1634,
+      "download_count": 1639,
       "created_at": "2025-03-16T11:50:53Z",
       "updated_at": "2025-03-16T11:58:59Z",
       "browser_download_url": "https://github.com/claudiodangelis/qrcp/releases/download/v0.11.6/qrcp_0.11.6_linux_amd64.deb"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 4439977,
       "digest": null,
-      "download_count": 420,
+      "download_count": 422,
       "created_at": "2025-03-16T11:50:54Z",
       "updated_at": "2025-03-16T11:58:59Z",
       "browser_download_url": "https://github.com/claudiodangelis/qrcp/releases/download/v0.11.6/qrcp_0.11.6_linux_amd64.rpm"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 4295200,
       "digest": null,
-      "download_count": 960,
+      "download_count": 963,
       "created_at": "2025-03-16T11:50:52Z",
       "updated_at": "2025-03-16T11:58:59Z",
       "browser_download_url": "https://github.com/claudiodangelis/qrcp/releases/download/v0.11.6/qrcp_0.11.6_linux_amd64.tar.gz"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 3957825,
       "digest": null,
-      "download_count": 222,
+      "download_count": 224,
       "created_at": "2025-03-16T11:50:52Z",
       "updated_at": "2025-03-16T11:58:59Z",
       "browser_download_url": "https://github.com/claudiodangelis/qrcp/releases/download/v0.11.6/qrcp_0.11.6_linux_arm64.tar.gz"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 4043264,
       "digest": null,
-      "download_count": 150,
+      "download_count": 152,
       "created_at": "2025-03-16T11:50:52Z",
       "updated_at": "2025-03-16T11:58:59Z",
       "browser_download_url": "https://github.com/claudiodangelis/qrcp/releases/download/v0.11.6/qrcp_0.11.6_linux_armv7.tar.gz"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 4227576,
       "digest": null,
-      "download_count": 1186,
+      "download_count": 1189,
       "created_at": "2025-03-16T11:50:50Z",
       "updated_at": "2025-03-16T11:58:59Z",
       "browser_download_url": "https://github.com/claudiodangelis/qrcp/releases/download/v0.11.6/qrcp_0.11.6_windows_386.zip"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 4421183,
       "digest": null,
-      "download_count": 2362,
+      "download_count": 2367,
       "created_at": "2025-03-16T11:50:50Z",
       "updated_at": "2025-03-16T11:58:59Z",
       "browser_download_url": "https://github.com/claudiodangelis/qrcp/releases/download/v0.11.6/qrcp_0.11.6_windows_amd64.tar.gz"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 4419317,
       "digest": null,
-      "download_count": 1902,
+      "download_count": 1904,
       "created_at": "2025-03-16T11:50:51Z",
       "updated_at": "2025-03-16T11:58:59Z",
       "browser_download_url": "https://github.com/claudiodangelis/qrcp/releases/download/v0.11.6/qrcp_0.11.6_windows_amd64.zip"
@@ -787,7 +787,7 @@
       "state": "uploaded",
       "size": 4017496,
       "digest": null,
-      "download_count": 1063,
+      "download_count": 1065,
       "created_at": "2025-03-16T11:50:51Z",
       "updated_at": "2025-03-16T11:58:59Z",
       "browser_download_url": "https://github.com/claudiodangelis/qrcp/releases/download/v0.11.6/qrcp_0.11.6_windows_arm64.zip"
@@ -859,7 +859,7 @@
       "state": "uploaded",
       "size": 4138609,
       "digest": null,
-      "download_count": 1001,
+      "download_count": 1003,
       "created_at": "2025-03-16T11:50:52Z",
       "updated_at": "2025-03-16T11:58:59Z",
       "browser_download_url": "https://github.com/claudiodangelis/qrcp/releases/download/v0.11.6/qrcp_0.11.6_windows_armv7.zip"
