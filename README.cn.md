@@ -1,62 +1,62 @@
 # qrcp
 
-[中文版本](./README.cn.md)
+[English version](./README.md)
 
 :zap: Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal.
 
-![qrcp](https://repo.x-cmd.io/qrcp.svg)
+![qrcp](https://repo.x-cmd.io/qrcp.svg?lang=zh)
 
-## Install
+## 安装
 
 ```sh
 x install qrcp
 ```
 
-## Code insight
+## 代码规模
 
-Total: **1,768** lines of code across **32** files in the top 5 languages.
+合计: **1,768** 行代码（覆盖前 5 种语言、共 **32** 个文件）。
 
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
+| 语言 | 代码 | 注释 | 空行 | 文件数 |
+|------|-----:|-----:|-----:|------:|
 | Go | 1,745 | 166 | 140 | 22 |
 | Yaml | 13 | 0 | 0 | 3 |
 | Sh | 9 | 1 | 0 | 1 |
 | Svg | 1 | 0 | 0 | 1 |
 | Markdown | 0 | 408 | 164 | 5 |
 
-## OpenSSF Scorecard
+## OpenSSF Scorecard 评分
 
-Overall score: **3.9 / 10**
+总评分: **3.9 / 10**
 
-Lowest-scoring checks:
+评分最低的几项:
 
 - **Code-Review** (3/10) — Found 9/25 approved changesets -- score normalized to 3
 - **Maintained** (0/10) — 0 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
-## Source
+## 源代码
 
-- **Upstream**: <https://github.com/claudiodangelis/qrcp>
-- **Homepage**: <https://qrcp.sh>
-- **License**: MIT
+- **上游仓库**: <https://github.com/claudiodangelis/qrcp>
+- **官网**: <https://qrcp.sh>
+- **许可证**: MIT
 
-## Release
+## 发布
 
-- **Latest**: `v0.11.6` (2025-03-16)
-- **Last commit**: 2026-03-11
-- **Assets in release**: 23
+- **最新版本**: `v0.11.6` (2025-03-16)
+- **最近提交**: 2026-03-11
+- **Release 含资产**: 23 个
 
-## Popularity
+## 流行度
 
-- **Stars**: 10,512 · **Forks**: 545 · **Open issues**: 177 · **Contributors**: 52
+- **Star**: 10,512 · **Fork**: 545 · **开放 issue**: 177 · **贡献者**: 52
 
-## Totals (cumulative)
+## 累计统计
 
-- **Releases**: 29 · **Merged PRs**: 126 · **Open PRs**: 8 · **Closed issues**: 171 · **Open issues**: 6 · **Commits**: 287
+- **发布数**: 29 · **已合并 PR**: 126 · **开放 PR**: 8 · **已关闭 issue**: 171 · **开放 issue**: 6 · **提交数**: 287
 
-## Recent activity
+## 最近活动
 
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 2 | 0 |
 | last60d | 2026-07-12 | 0 | 0 | 0 | 0 | 2 | 0 |
@@ -65,10 +65,10 @@ Lowest-scoring checks:
 | 360d | 2025-09-15 | 0 | 0 | 4 | 0 | 3 | 1 |
 | last720d | 2024-09-20 | 3 | 18 | 7 | 8 | 5 | 27 |
 
-## Release assets
+## Release 资产
 
-| Asset | Size | Target |
-|-------|-----:|--------|
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
 | [checksums.txt](https://github.com/claudiodangelis/qrcp/releases/download/v0.11.6/checksums.txt) | 2.1 KiB | `other` |
 | [qrcp_0.11.6_darwin_amd64.tar.gz](https://github.com/claudiodangelis/qrcp/releases/download/v0.11.6/qrcp_0.11.6_darwin_amd64.tar.gz) | 4.3 MiB | `native/darwin/x64` |
 | [qrcp_0.11.6_darwin_arm64.tar.gz](https://github.com/claudiodangelis/qrcp/releases/download/v0.11.6/qrcp_0.11.6_darwin_arm64.tar.gz) | 4.1 MiB | `native/darwin/arm64` |
@@ -93,23 +93,23 @@ Lowest-scoring checks:
 | [qrcp_0.11.6_windows_armv7.tar.gz](https://github.com/claudiodangelis/qrcp/releases/download/v0.11.6/qrcp_0.11.6_windows_armv7.tar.gz) | 3.9 MiB | `native/win/x64` |
 | [qrcp_0.11.6_windows_armv7.zip](https://github.com/claudiodangelis/qrcp/releases/download/v0.11.6/qrcp_0.11.6_windows_armv7.zip) | 3.9 MiB | `native/win/x64` |
 
-## Distribution status
+## 发行版状态
 
-Reported by **18** distros on [repology.org](https://repology.org/project/qrcp). **15** are ✅ on the latest upstream release, **2** are ⚠️ on an older version.
+在 [repology.org](https://repology.org/project/qrcp) 上共有 **18** 个发行版报告此项目。**15** 个 ✅ 已是最新上游版本，**2** 个 ⚠️ 使用旧版本。
 
-| Distro | Version | Status |
-|--------|---------|--------|
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
 | Homebrew | `0.11.6` | ✅ latest |
 | Nix unstable | `0.11.6` | ✅ latest |
 | Void | `0.11.6` | ✅ latest |
 
-## Improve this data
+## 改进这些数据
 
-Install metadata for qrcp lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `qrcp` is missing, out of date, or installs incorrectly, please open an issue or PR there:
+qrcp 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `qrcp` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
 
-- **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/qrcp.yml> (or whichever path the index uses)
+- **提交 issue**: <https://github.com/x-cmd/install/issues/new>
+- **编辑包条目**: <https://github.com/x-cmd/install/edit/main/qrcp.yml>（或索引实际使用的路径）
 
-The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
+本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T21:17:15Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T21:17:16Z._
