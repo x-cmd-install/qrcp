@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 4295200,
       "digest": null,
-      "download_count": 975,
+      "download_count": 976,
       "created_at": "2025-03-16T11:50:52Z",
       "updated_at": "2025-03-16T11:58:59Z",
       "browser_download_url": "https://github.com/claudiodangelis/qrcp/releases/download/v0.11.6/qrcp_0.11.6_linux_amd64.tar.gz"
