@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.11.6"
   latestRelease: "v0.11.6"
   latestPrerelease: ""
-  collectedAt: 2026-09-11T05:55:03Z
+  collectedAt: 2026-09-11T19:03:12Z
 timeline:
   created: 2018-01-14
   lastCommit: 2026-03-11
@@ -83,7 +83,7 @@ total:
   commit: 287
 ---
 path: /home/runner/.x-repo/github.com/claudiodangelis/qrcp
-collectedAt: 2026-09-11T05:55:05Z
+collectedAt: 2026-09-11T19:03:14Z
 loc:
   Go:
     code: 1745
