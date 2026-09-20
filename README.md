@@ -4,7 +4,7 @@
 
 :zap: Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal.
 
-![qrcp](https://repo.x-cmd.io/qrcp.svg)
+[![x-cmd/install — qrcp Code Quality Monitoring Repo Card](https://repo.x-cmd.io/qrcp.svg)](https://x-cmd.com/install/qrcp)
 
 ## Install
 
@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 10,513 · **Forks**: 546 · **Open issues**: 177 · **Contributors**: 52
+- **Stars**: 10,511 · **Forks**: 546 · **Open issues**: 177 · **Contributors**: 52
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 0 | 0 | 0 | 2 | 0 |
-| last60d | 2026-07-20 | 0 | 0 | 0 | 0 | 2 | 0 |
-| 90d | 2026-06-20 | 0 | 0 | 0 | 0 | 2 | 0 |
-| last180d | 2026-03-22 | 0 | 0 | 3 | 0 | 3 | 0 |
-| 360d | 2025-09-23 | 0 | 0 | 4 | 0 | 3 | 1 |
-| last720d | 2024-09-28 | 3 | 18 | 6 | 8 | 5 | 27 |
+| 30d | 2026-08-21 | 0 | 0 | 0 | 0 | 2 | 0 |
+| last60d | 2026-07-22 | 0 | 0 | 0 | 0 | 2 | 0 |
+| 90d | 2026-06-22 | 0 | 0 | 0 | 0 | 2 | 0 |
+| last180d | 2026-03-24 | 0 | 0 | 3 | 0 | 3 | 0 |
+| 360d | 2025-09-25 | 0 | 0 | 4 | 0 | 3 | 1 |
+| last720d | 2024-09-30 | 3 | 18 | 6 | 8 | 5 | 27 |
 
 ## Release assets
 
@@ -102,4 +102,4 @@ Install metadata for qrcp lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T06:09:16Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T06:11:04Z._
