@@ -14,11 +14,11 @@ x install qrcp
 
 ## Code insight
 
-Total: **1,768** lines of code across **32** files in the top 5 languages.
+Total: **1,786** lines of code across **34** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 1,745 | 166 | 140 | 22 |
+| Go | 1,763 | 182 | 148 | 24 |
 | Yaml | 13 | 0 | 0 | 3 |
 | Sh | 9 | 1 | 0 | 1 |
 | Svg | 1 | 0 | 0 | 1 |
@@ -42,56 +42,54 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v0.11.6` (2025-03-16)
-- **Last commit**: 2026-03-11
-- **Assets in release**: 23
+- **Latest**: `v0.11.7` (2026-09-30)
+- **Last commit**: 2026-09-30
+- **Assets in release**: 21
 
 ## Popularity
 
-- **Stars**: 10,515 · **Forks**: 547 · **Open issues**: 177 · **Contributors**: 52
+- **Stars**: 10,516 · **Forks**: 547 · **Open issues**: 178 · **Contributors**: 52
 
 ## Totals (cumulative)
 
-- **Releases**: 29 · **Merged PRs**: 126 · **Open PRs**: 8 · **Closed issues**: 171 · **Open issues**: 6 · **Commits**: 287
+- **Releases**: 30 · **Merged PRs**: 130 · **Open PRs**: 1 · **Closed issues**: 174 · **Open issues**: 4 · **Commits**: 291
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-31 | 0 | 0 | 0 | 0 | 1 | 0 |
-| last60d | 2026-08-01 | 0 | 0 | 0 | 0 | 2 | 0 |
-| 90d | 2026-07-02 | 0 | 0 | 0 | 0 | 2 | 0 |
-| last180d | 2026-04-03 | 0 | 0 | 3 | 0 | 3 | 0 |
-| 360d | 2025-10-05 | 0 | 0 | 4 | 0 | 3 | 1 |
-| last720d | 2024-10-10 | 3 | 17 | 5 | 8 | 5 | 27 |
+| 30d | 2026-09-01 | 1 | 2 | 0 | 0 | 2 | 4 |
+| last60d | 2026-08-02 | 1 | 2 | 0 | 0 | 3 | 4 |
+| 90d | 2026-07-03 | 1 | 2 | 0 | 0 | 3 | 4 |
+| last180d | 2026-04-04 | 1 | 4 | 1 | 1 | 3 | 4 |
+| 360d | 2025-10-06 | 1 | 4 | 1 | 1 | 3 | 5 |
+| last720d | 2024-10-11 | 4 | 21 | 1 | 11 | 3 | 31 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [checksums.txt](https://github.com/claudiodangelis/qrcp/releases/download/v0.11.6/checksums.txt) | 2.1 KiB | `other` |
-| [qrcp_0.11.6_darwin_amd64.tar.gz](https://github.com/claudiodangelis/qrcp/releases/download/v0.11.6/qrcp_0.11.6_darwin_amd64.tar.gz) | 4.3 MiB | `native/darwin/x64` |
-| [qrcp_0.11.6_darwin_arm64.tar.gz](https://github.com/claudiodangelis/qrcp/releases/download/v0.11.6/qrcp_0.11.6_darwin_arm64.tar.gz) | 4.1 MiB | `native/darwin/arm64` |
-| [qrcp_0.11.6_linux_386.deb](https://github.com/claudiodangelis/qrcp/releases/download/v0.11.6/qrcp_0.11.6_linux_386.deb) | 3.9 MiB | `other` |
-| [qrcp_0.11.6_linux_386.rpm](https://github.com/claudiodangelis/qrcp/releases/download/v0.11.6/qrcp_0.11.6_linux_386.rpm) | 4.0 MiB | `other` |
-| [qrcp_0.11.6_linux_386.tar.gz](https://github.com/claudiodangelis/qrcp/releases/download/v0.11.6/qrcp_0.11.6_linux_386.tar.gz) | 3.9 MiB | `native/unknown` |
-| [qrcp_0.11.6_linux_amd64.deb](https://github.com/claudiodangelis/qrcp/releases/download/v0.11.6/qrcp_0.11.6_linux_amd64.deb) | 4.1 MiB | `native/linux/x64` |
-| [qrcp_0.11.6_linux_amd64.rpm](https://github.com/claudiodangelis/qrcp/releases/download/v0.11.6/qrcp_0.11.6_linux_amd64.rpm) | 4.2 MiB | `native/linux/x64` |
-| [qrcp_0.11.6_linux_amd64.tar.gz](https://github.com/claudiodangelis/qrcp/releases/download/v0.11.6/qrcp_0.11.6_linux_amd64.tar.gz) | 4.1 MiB | `native/linux/x64` |
-| [qrcp_0.11.6_linux_arm64.deb](https://github.com/claudiodangelis/qrcp/releases/download/v0.11.6/qrcp_0.11.6_linux_arm64.deb) | 3.8 MiB | `native/linux/arm64` |
-| [qrcp_0.11.6_linux_arm64.rpm](https://github.com/claudiodangelis/qrcp/releases/download/v0.11.6/qrcp_0.11.6_linux_arm64.rpm) | 3.9 MiB | `native/linux/arm64` |
-| [qrcp_0.11.6_linux_arm64.tar.gz](https://github.com/claudiodangelis/qrcp/releases/download/v0.11.6/qrcp_0.11.6_linux_arm64.tar.gz) | 3.8 MiB | `native/linux/arm64` |
-| [qrcp_0.11.6_linux_armv7.deb](https://github.com/claudiodangelis/qrcp/releases/download/v0.11.6/qrcp_0.11.6_linux_armv7.deb) | 3.9 MiB | `native/linux/arm` |
-| [qrcp_0.11.6_linux_armv7.rpm](https://github.com/claudiodangelis/qrcp/releases/download/v0.11.6/qrcp_0.11.6_linux_armv7.rpm) | 4.0 MiB | `native/linux/arm` |
-| [qrcp_0.11.6_linux_armv7.tar.gz](https://github.com/claudiodangelis/qrcp/releases/download/v0.11.6/qrcp_0.11.6_linux_armv7.tar.gz) | 3.9 MiB | `native/linux/arm` |
-| [qrcp_0.11.6_windows_386.tar.gz](https://github.com/claudiodangelis/qrcp/releases/download/v0.11.6/qrcp_0.11.6_windows_386.tar.gz) | 4.0 MiB | `native/win/x64` |
-| [qrcp_0.11.6_windows_386.zip](https://github.com/claudiodangelis/qrcp/releases/download/v0.11.6/qrcp_0.11.6_windows_386.zip) | 4.0 MiB | `native/win/x64` |
-| [qrcp_0.11.6_windows_amd64.tar.gz](https://github.com/claudiodangelis/qrcp/releases/download/v0.11.6/qrcp_0.11.6_windows_amd64.tar.gz) | 4.2 MiB | `native/win/x64` |
-| [qrcp_0.11.6_windows_amd64.zip](https://github.com/claudiodangelis/qrcp/releases/download/v0.11.6/qrcp_0.11.6_windows_amd64.zip) | 4.2 MiB | `native/win/x64` |
-| [qrcp_0.11.6_windows_arm64.tar.gz](https://github.com/claudiodangelis/qrcp/releases/download/v0.11.6/qrcp_0.11.6_windows_arm64.tar.gz) | 3.8 MiB | `native/win/arm64` |
-| [qrcp_0.11.6_windows_arm64.zip](https://github.com/claudiodangelis/qrcp/releases/download/v0.11.6/qrcp_0.11.6_windows_arm64.zip) | 3.8 MiB | `native/win/arm64` |
-| [qrcp_0.11.6_windows_armv7.tar.gz](https://github.com/claudiodangelis/qrcp/releases/download/v0.11.6/qrcp_0.11.6_windows_armv7.tar.gz) | 3.9 MiB | `native/win/x64` |
-| [qrcp_0.11.6_windows_armv7.zip](https://github.com/claudiodangelis/qrcp/releases/download/v0.11.6/qrcp_0.11.6_windows_armv7.zip) | 3.9 MiB | `native/win/x64` |
+| [checksums.txt](https://github.com/claudiodangelis/qrcp/releases/download/v0.11.7/checksums.txt) | 1.9 KiB | `other` |
+| [qrcp_0.11.7_darwin_amd64.tar.gz](https://github.com/claudiodangelis/qrcp/releases/download/v0.11.7/qrcp_0.11.7_darwin_amd64.tar.gz) | 4.5 MiB | `native/darwin/x64` |
+| [qrcp_0.11.7_darwin_arm64.tar.gz](https://github.com/claudiodangelis/qrcp/releases/download/v0.11.7/qrcp_0.11.7_darwin_arm64.tar.gz) | 4.2 MiB | `native/darwin/arm64` |
+| [qrcp_0.11.7_linux_386.deb](https://github.com/claudiodangelis/qrcp/releases/download/v0.11.7/qrcp_0.11.7_linux_386.deb) | 4.3 MiB | `other` |
+| [qrcp_0.11.7_linux_386.rpm](https://github.com/claudiodangelis/qrcp/releases/download/v0.11.7/qrcp_0.11.7_linux_386.rpm) | 4.3 MiB | `other` |
+| [qrcp_0.11.7_linux_386.tar.gz](https://github.com/claudiodangelis/qrcp/releases/download/v0.11.7/qrcp_0.11.7_linux_386.tar.gz) | 4.3 MiB | `native/unknown` |
+| [qrcp_0.11.7_linux_amd64.deb](https://github.com/claudiodangelis/qrcp/releases/download/v0.11.7/qrcp_0.11.7_linux_amd64.deb) | 4.4 MiB | `native/linux/x64` |
+| [qrcp_0.11.7_linux_amd64.rpm](https://github.com/claudiodangelis/qrcp/releases/download/v0.11.7/qrcp_0.11.7_linux_amd64.rpm) | 4.4 MiB | `native/linux/x64` |
+| [qrcp_0.11.7_linux_amd64.tar.gz](https://github.com/claudiodangelis/qrcp/releases/download/v0.11.7/qrcp_0.11.7_linux_amd64.tar.gz) | 4.5 MiB | `native/linux/x64` |
+| [qrcp_0.11.7_linux_arm64.deb](https://github.com/claudiodangelis/qrcp/releases/download/v0.11.7/qrcp_0.11.7_linux_arm64.deb) | 4.1 MiB | `native/linux/arm64` |
+| [qrcp_0.11.7_linux_arm64.rpm](https://github.com/claudiodangelis/qrcp/releases/download/v0.11.7/qrcp_0.11.7_linux_arm64.rpm) | 4.1 MiB | `native/linux/arm64` |
+| [qrcp_0.11.7_linux_arm64.tar.gz](https://github.com/claudiodangelis/qrcp/releases/download/v0.11.7/qrcp_0.11.7_linux_arm64.tar.gz) | 4.1 MiB | `native/linux/arm64` |
+| [qrcp_0.11.7_linux_armv7.deb](https://github.com/claudiodangelis/qrcp/releases/download/v0.11.7/qrcp_0.11.7_linux_armv7.deb) | 4.2 MiB | `native/linux/arm` |
+| [qrcp_0.11.7_linux_armv7.rpm](https://github.com/claudiodangelis/qrcp/releases/download/v0.11.7/qrcp_0.11.7_linux_armv7.rpm) | 4.2 MiB | `native/linux/arm` |
+| [qrcp_0.11.7_linux_armv7.tar.gz](https://github.com/claudiodangelis/qrcp/releases/download/v0.11.7/qrcp_0.11.7_linux_armv7.tar.gz) | 4.2 MiB | `native/linux/arm` |
+| [qrcp_0.11.7_windows_386.tar.gz](https://github.com/claudiodangelis/qrcp/releases/download/v0.11.7/qrcp_0.11.7_windows_386.tar.gz) | 4.4 MiB | `native/win/x64` |
+| [qrcp_0.11.7_windows_386.zip](https://github.com/claudiodangelis/qrcp/releases/download/v0.11.7/qrcp_0.11.7_windows_386.zip) | 4.4 MiB | `native/win/x64` |
+| [qrcp_0.11.7_windows_amd64.tar.gz](https://github.com/claudiodangelis/qrcp/releases/download/v0.11.7/qrcp_0.11.7_windows_amd64.tar.gz) | 4.6 MiB | `native/win/x64` |
+| [qrcp_0.11.7_windows_amd64.zip](https://github.com/claudiodangelis/qrcp/releases/download/v0.11.7/qrcp_0.11.7_windows_amd64.zip) | 4.6 MiB | `native/win/x64` |
+| [qrcp_0.11.7_windows_arm64.tar.gz](https://github.com/claudiodangelis/qrcp/releases/download/v0.11.7/qrcp_0.11.7_windows_arm64.tar.gz) | 4.1 MiB | `native/win/arm64` |
+| [qrcp_0.11.7_windows_arm64.zip](https://github.com/claudiodangelis/qrcp/releases/download/v0.11.7/qrcp_0.11.7_windows_arm64.zip) | 4.1 MiB | `native/win/arm64` |
 
 ## Improve this data
 
@@ -102,4 +100,4 @@ Install metadata for qrcp lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260930.yml` · 2026-09-30T06:46:20Z._
+_Snapshot: `data/card/261001.yml` · 2026-10-01T06:57:25Z._
