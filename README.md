@@ -26,13 +26,13 @@ Total: **1,786** lines of code across **34** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **3.9 / 10**
+Overall score: **4.2 / 10**
 
 Lowest-scoring checks:
 
-- **Maintained** (0/10) — 0 commit(s) and 1 issue activity found in the last 90 days -- score normalized to 0
-- **Code-Review** (3/10) — Found 9/25 approved changesets -- score normalized to 3
+- **Code-Review** (2/10) — Found 7/25 approved changesets -- score normalized to 2
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **Pinned-Dependencies** (2/10) — dependency not pinned by hash detected -- score normalized to 2
 
 ## Source
 
@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 10,518 · **Forks**: 548 · **Open issues**: 178 · **Contributors**: 52
+- **Stars**: 10,517 · **Forks**: 548 · **Open issues**: 178 · **Contributors**: 52
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-06 | 1 | 2 | 1 | 0 | 2 | 4 |
-| last60d | 2026-08-07 | 1 | 2 | 1 | 0 | 3 | 4 |
-| 90d | 2026-07-08 | 1 | 2 | 1 | 0 | 3 | 4 |
-| last180d | 2026-04-09 | 1 | 4 | 2 | 0 | 3 | 4 |
-| 360d | 2025-10-11 | 1 | 4 | 2 | 1 | 3 | 5 |
-| last720d | 2024-10-16 | 4 | 21 | 2 | 11 | 3 | 31 |
+| 30d | 2026-09-07 | 1 | 2 | 1 | 0 | 1 | 4 |
+| last60d | 2026-08-08 | 1 | 2 | 1 | 0 | 3 | 4 |
+| 90d | 2026-07-09 | 1 | 2 | 1 | 0 | 3 | 4 |
+| last180d | 2026-04-10 | 1 | 4 | 2 | 0 | 3 | 4 |
+| 360d | 2025-10-12 | 1 | 4 | 2 | 1 | 3 | 5 |
+| last720d | 2024-10-17 | 4 | 21 | 2 | 11 | 3 | 31 |
 
 ## Release assets
 
@@ -100,4 +100,4 @@ Install metadata for qrcp lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261006.yml` · 2026-10-06T07:41:52Z._
+_Snapshot: `data/card/261007.yml` · 2026-10-07T06:59:15Z._
