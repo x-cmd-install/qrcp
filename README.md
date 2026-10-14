@@ -26,7 +26,7 @@ Total: **1,786** lines of code across **34** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **4.2 / 10**
+Overall score: **4.5 / 10**
 
 Lowest-scoring checks:
 
@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 10,517 · **Forks**: 549 · **Open issues**: 178 · **Contributors**: 52
+- **Stars**: 10,519 · **Forks**: 552 · **Open issues**: 178 · **Contributors**: 52
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-13 | 1 | 2 | 1 | 0 | 1 | 4 |
-| last60d | 2026-08-14 | 1 | 2 | 1 | 0 | 3 | 4 |
-| 90d | 2026-07-15 | 1 | 2 | 1 | 0 | 3 | 4 |
-| last180d | 2026-04-16 | 1 | 4 | 2 | 0 | 3 | 4 |
-| 360d | 2025-10-18 | 1 | 4 | 2 | 1 | 3 | 5 |
-| last720d | 2024-10-23 | 4 | 21 | 2 | 11 | 3 | 31 |
+| 30d | 2026-09-14 | 1 | 2 | 1 | 0 | 1 | 4 |
+| last60d | 2026-08-15 | 1 | 2 | 1 | 0 | 3 | 4 |
+| 90d | 2026-07-16 | 1 | 2 | 1 | 0 | 3 | 4 |
+| last180d | 2026-04-17 | 1 | 4 | 2 | 0 | 3 | 4 |
+| 360d | 2025-10-19 | 1 | 4 | 2 | 1 | 3 | 5 |
+| last720d | 2024-10-24 | 4 | 21 | 2 | 11 | 3 | 31 |
 
 ## Release assets
 
@@ -100,4 +100,4 @@ Install metadata for qrcp lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261013.yml` · 2026-10-13T08:06:00Z._
+_Snapshot: `data/card/261014.yml` · 2026-10-14T06:00:41Z._
