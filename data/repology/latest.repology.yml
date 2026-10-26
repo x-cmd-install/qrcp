@@ -163,7 +163,7 @@
   binname: qrcp
   visiblename: net/qrcp
   version: 0.11.6
-  origversion: 0.11.6nb18
+  origversion: 0.11.6nb19
   status: outdated
   summary: Transfer files over Wi-Fi via a QR Code
   maintainers:
