@@ -1,4 +1,16 @@
 - repo: aur
+  srcname: qrcp-bin
+  binname: qrcp-bin
+  visiblename: qrcp-bin
+  version: 0.11.7
+  origversion: 0.11.7-1
+  status: newest
+  summary: Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal.
+  maintainers:
+    - lapsus@aur
+  licenses:
+    - MIT
+- repo: aur
   srcname: qrcp
   binname: qrcp
   visiblename: qrcp
@@ -9,18 +21,6 @@
   maintainers:
     - xiota@aur
     - chaotic-aur@aur
-  licenses:
-    - MIT
-- repo: aur
-  srcname: qrcp-bin
-  binname: qrcp-bin
-  visiblename: qrcp-bin
-  version: 0.11.7
-  origversion: 0.11.7-1
-  status: newest
-  summary: Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal.
-  maintainers:
-    - lapsus@aur
   licenses:
     - MIT
 - repo: aur
@@ -47,7 +47,7 @@
   binname: qrcp
   visiblename: net/qrcp
   version: 0.11.7
-  origversion: 0.11.7_2
+  origversion: 0.11.7_3
   status: newest
   summary: Transfer files over wifi by scanning a QR code
   maintainers:
@@ -175,7 +175,7 @@
   binname: qrcp
   visiblename: net/qrcp
   version: 0.11.7
-  origversion: 0.11.7nb2
+  origversion: 0.11.7nb3
   status: newest
   summary: Transfer files over Wi-Fi via a QR Code
   maintainers:
