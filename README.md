@@ -14,11 +14,11 @@ x install qrcp
 
 ## Code insight
 
-Total: **1,786** lines of code across **34** files in the top 5 languages.
+Total: **2,382** lines of code across **35** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 1,763 | 182 | 148 | 24 |
+| Go | 2,359 | 248 | 195 | 25 |
 | Yaml | 13 | 0 | 0 | 3 |
 | Sh | 9 | 1 | 0 | 1 |
 | Svg | 1 | 0 | 0 | 1 |
@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.11.7` (2026-09-30)
-- **Last commit**: 2026-09-30
+- **Last commit**: 2026-11-15
 - **Assets in release**: 21
 
 ## Popularity
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 30 · **Merged PRs**: 130 · **Open PRs**: 2 · **Closed issues**: 174 · **Open issues**: 5 · **Commits**: 291
+- **Releases**: 30 · **Merged PRs**: 132 · **Open PRs**: 3 · **Closed issues**: 174 · **Open issues**: 5 · **Commits**: 293
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-16 | 0 | 0 | 0 | 0 | 1 | 0 |
-| last60d | 2026-09-16 | 1 | 2 | 1 | 0 | 2 | 4 |
-| 90d | 2026-08-17 | 1 | 2 | 1 | 0 | 4 | 4 |
-| last180d | 2026-05-19 | 1 | 3 | 1 | 0 | 4 | 4 |
-| 360d | 2025-11-20 | 1 | 4 | 2 | 1 | 4 | 5 |
-| last720d | 2024-11-25 | 4 | 20 | 2 | 10 | 4 | 31 |
+| 30d | 2026-10-17 | 0 | 2 | 1 | 0 | 1 | 2 |
+| last60d | 2026-09-17 | 1 | 4 | 2 | 0 | 2 | 6 |
+| 90d | 2026-08-18 | 1 | 4 | 2 | 0 | 4 | 6 |
+| last180d | 2026-05-20 | 1 | 5 | 2 | 0 | 4 | 6 |
+| 360d | 2025-11-21 | 1 | 6 | 3 | 1 | 4 | 7 |
+| last720d | 2024-11-26 | 4 | 22 | 3 | 10 | 4 | 33 |
 
 ## Release assets
 
@@ -93,7 +93,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **18** distros on [repology.org](https://repology.org/project/qrcp). **8** are ✅ on the latest upstream release, **9** are ⚠️ on an older version.
+Reported by **18** distros on [repology.org](https://repology.org/project/qrcp). **9** are ✅ on the latest upstream release, **8** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -110,4 +110,4 @@ Install metadata for qrcp lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261115.yml` · 2026-11-15T08:13:19Z._
+_Snapshot: `data/card/261116.yml` · 2026-11-16T08:36:41Z._
