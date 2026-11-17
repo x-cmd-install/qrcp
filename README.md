@@ -14,15 +14,15 @@ x install qrcp
 
 ## Code insight
 
-Total: **2,382** lines of code across **35** files in the top 5 languages.
+Total: **4,257** lines of code across **42** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 2,359 | 248 | 195 | 25 |
+| Go | 4,234 | 411 | 324 | 32 |
 | Yaml | 13 | 0 | 0 | 3 |
 | Sh | 9 | 1 | 0 | 1 |
 | Svg | 1 | 0 | 0 | 1 |
-| Markdown | 0 | 408 | 164 | 5 |
+| Markdown | 0 | 421 | 169 | 5 |
 
 ## OpenSSF Scorecard
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.11.7` (2026-09-30)
-- **Last commit**: 2026-11-15
+- **Last commit**: 2026-11-16
 - **Assets in release**: 21
 
 ## Popularity
 
-- **Stars**: 10,525 · **Forks**: 549 · **Open issues**: 179 · **Contributors**: 52
+- **Stars**: 10,528 · **Forks**: 549 · **Open issues**: 179 · **Contributors**: 52
 
 ## Totals (cumulative)
 
-- **Releases**: 30 · **Merged PRs**: 132 · **Open PRs**: 3 · **Closed issues**: 174 · **Open issues**: 5 · **Commits**: 293
+- **Releases**: 30 · **Merged PRs**: 134 · **Open PRs**: 3 · **Closed issues**: 174 · **Open issues**: 5 · **Commits**: 295
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 0 | 2 | 1 | 0 | 1 | 2 |
-| last60d | 2026-09-17 | 1 | 4 | 2 | 0 | 2 | 6 |
-| 90d | 2026-08-18 | 1 | 4 | 2 | 0 | 4 | 6 |
-| last180d | 2026-05-20 | 1 | 5 | 2 | 0 | 4 | 6 |
-| 360d | 2025-11-21 | 1 | 6 | 3 | 1 | 4 | 7 |
-| last720d | 2024-11-26 | 4 | 22 | 3 | 10 | 4 | 33 |
+| 30d | 2026-10-18 | 0 | 4 | 1 | 0 | 1 | 4 |
+| last60d | 2026-09-18 | 1 | 6 | 2 | 0 | 2 | 8 |
+| 90d | 2026-08-19 | 1 | 6 | 2 | 0 | 4 | 8 |
+| last180d | 2026-05-21 | 1 | 7 | 2 | 0 | 4 | 8 |
+| 360d | 2025-11-22 | 1 | 8 | 3 | 1 | 4 | 9 |
+| last720d | 2024-11-27 | 4 | 24 | 3 | 10 | 4 | 35 |
 
 ## Release assets
 
@@ -91,16 +91,6 @@ Lowest-scoring checks:
 | [qrcp_0.11.7_windows_arm64.tar.gz](https://github.com/claudiodangelis/qrcp/releases/download/v0.11.7/qrcp_0.11.7_windows_arm64.tar.gz) | 4.1 MiB | `native/win/arm64` |
 | [qrcp_0.11.7_windows_arm64.zip](https://github.com/claudiodangelis/qrcp/releases/download/v0.11.7/qrcp_0.11.7_windows_arm64.zip) | 4.1 MiB | `native/win/arm64` |
 
-## Distribution status
-
-Reported by **18** distros on [repology.org](https://repology.org/project/qrcp). **9** are ✅ on the latest upstream release, **8** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `0.11.7` | ✅ latest |
-| Nix unstable | `0.11.7` | ✅ latest |
-| Void | `0.11.6` | ⚠️ outdated |
-
 ## Improve this data
 
 Install metadata for qrcp lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `qrcp` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -110,4 +100,4 @@ Install metadata for qrcp lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261116.yml` · 2026-11-16T08:36:41Z._
+_Snapshot: `data/card/261117.yml` · 2026-11-17T10:59:35Z._
