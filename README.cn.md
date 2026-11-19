@@ -30,7 +30,7 @@ x install qrcp
 
 评分最低的几项:
 
-- **Code-Review** (2/10) — Found 7/25 approved changesets -- score normalized to 2
+- **Code-Review** (1/10) — Found 4/25 approved changesets -- score normalized to 1
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **Pinned-Dependencies** (2/10) — dependency not pinned by hash detected -- score normalized to 2
 
@@ -48,7 +48,7 @@ x install qrcp
 
 ## 流行度
 
-- **Star**: 10,528 · **Fork**: 549 · **开放 issue**: 179 · **贡献者**: 52
+- **Star**: 10,531 · **Fork**: 549 · **开放 issue**: 179 · **贡献者**: 52
 
 ## 累计统计
 
@@ -58,12 +58,12 @@ x install qrcp
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 0 | 4 | 1 | 0 | 1 | 4 |
-| last60d | 2026-09-18 | 1 | 6 | 2 | 0 | 2 | 8 |
-| 90d | 2026-08-19 | 1 | 6 | 2 | 0 | 4 | 8 |
-| last180d | 2026-05-21 | 1 | 7 | 2 | 0 | 4 | 8 |
-| 360d | 2025-11-22 | 1 | 8 | 3 | 1 | 4 | 9 |
-| last720d | 2024-11-27 | 4 | 24 | 3 | 10 | 4 | 35 |
+| 30d | 2026-10-20 | 0 | 4 | 1 | 0 | 1 | 4 |
+| last60d | 2026-09-20 | 1 | 6 | 2 | 0 | 2 | 8 |
+| 90d | 2026-08-21 | 1 | 6 | 2 | 0 | 4 | 8 |
+| last180d | 2026-05-23 | 1 | 7 | 2 | 0 | 4 | 8 |
+| 360d | 2025-11-24 | 1 | 8 | 3 | 1 | 4 | 9 |
+| last720d | 2024-11-29 | 4 | 24 | 3 | 10 | 4 | 35 |
 
 ## Release 资产
 
@@ -91,6 +91,16 @@ x install qrcp
 | [qrcp_0.11.7_windows_arm64.tar.gz](https://github.com/claudiodangelis/qrcp/releases/download/v0.11.7/qrcp_0.11.7_windows_arm64.tar.gz) | 4.1 MiB | `native/win/arm64` |
 | [qrcp_0.11.7_windows_arm64.zip](https://github.com/claudiodangelis/qrcp/releases/download/v0.11.7/qrcp_0.11.7_windows_arm64.zip) | 4.1 MiB | `native/win/arm64` |
 
+## 发行版状态
+
+在 [repology.org](https://repology.org/project/qrcp) 上共有 **18** 个发行版报告此项目。**9** 个 ✅ 已是最新上游版本，**8** 个 ⚠️ 使用旧版本。
+
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Homebrew | `0.11.7` | ✅ latest |
+| Nix unstable | `0.11.7` | ✅ latest |
+| Void | `0.11.6` | ⚠️ outdated |
+
 ## 改进这些数据
 
 qrcp 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `qrcp` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -100,4 +110,4 @@ qrcp 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261117.yml` · 2026-11-17T10:59:36Z._
+_数据快照: `data/card/261119.yml` · 2026-11-19T10:16:38Z._
