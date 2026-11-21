@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 10,530 · **Forks**: 549 · **Open issues**: 179 · **Contributors**: 52
+- **Stars**: 10,531 · **Forks**: 550 · **Open issues**: 179 · **Contributors**: 52
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-21 | 0 | 4 | 1 | 0 | 1 | 4 |
-| last60d | 2026-09-21 | 1 | 6 | 2 | 0 | 2 | 8 |
-| 90d | 2026-08-22 | 1 | 6 | 2 | 0 | 3 | 8 |
-| last180d | 2026-05-24 | 1 | 7 | 2 | 0 | 4 | 8 |
-| 360d | 2025-11-25 | 1 | 8 | 3 | 1 | 4 | 9 |
-| last720d | 2024-11-30 | 4 | 24 | 3 | 10 | 4 | 35 |
+| 30d | 2026-10-22 | 0 | 4 | 1 | 0 | 1 | 4 |
+| last60d | 2026-09-22 | 1 | 6 | 2 | 0 | 2 | 8 |
+| 90d | 2026-08-23 | 1 | 6 | 2 | 0 | 3 | 8 |
+| last180d | 2026-05-25 | 1 | 7 | 2 | 0 | 4 | 8 |
+| 360d | 2025-11-26 | 1 | 8 | 3 | 1 | 4 | 9 |
+| last720d | 2024-12-01 | 4 | 24 | 3 | 10 | 4 | 35 |
 
 ## Release assets
 
@@ -110,4 +110,4 @@ Install metadata for qrcp lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261120.yml` · 2026-11-20T10:13:15Z._
+_Snapshot: `data/card/261121.yml` · 2026-11-21T09:08:45Z._
