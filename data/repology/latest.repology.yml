@@ -2,8 +2,8 @@
   srcname: qrcp
   binname: qrcp
   visiblename: qrcp
-  version: 0.11.7
-  origversion: 0.11.7-1
+  version: 0.12.0
+  origversion: 0.12.0-1
   status: newest
   summary: Transfer files over WiFi from computer to mobile by scanning a QR code at the terminal
   maintainers:
@@ -15,8 +15,8 @@
   srcname: qrcp-bin
   binname: qrcp-bin
   visiblename: qrcp-bin
-  version: 0.11.7
-  origversion: 0.11.7-1
+  version: 0.12.0
+  origversion: 0.12.0-1
   status: newest
   summary: Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal.
   maintainers:
@@ -40,7 +40,7 @@
   visiblename: qrcp
   version: 0.11.7
   origversion: null
-  status: newest
+  status: outdated
   summary: Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal.
 - repo: freebsd
   srcname: net/qrcp
@@ -48,7 +48,7 @@
   visiblename: net/qrcp
   version: 0.11.7
   origversion: 0.11.7_3
-  status: newest
+  status: outdated
   summary: Transfer files over wifi by scanning a QR code
   maintainers:
     - tagattie@freebsd.org
@@ -57,7 +57,7 @@
 - repo: homebrew
   srcname: qrcp
   visiblename: qrcp
-  version: 0.11.7
+  version: 0.12.0
   origversion: null
   status: newest
   summary: Transfer files to and from your computer by scanning a QR code
@@ -129,7 +129,7 @@
   visiblename: qrcp
   version: 0.11.7
   origversion: null
-  status: newest
+  status: outdated
   summary: Transfer files over wifi by scanning a QR code from your terminal
   maintainers:
     - fgaz@fgaz.me
@@ -140,7 +140,7 @@
   visiblename: qrcp
   version: 0.11.7
   origversion: null
-  status: newest
+  status: outdated
   summary: Transfer files over wifi by scanning a QR code from your terminal
   maintainers:
     - fgaz@fgaz.me
@@ -176,7 +176,7 @@
   visiblename: net/qrcp
   version: 0.11.7
   origversion: 0.11.7nb3
-  status: newest
+  status: outdated
   summary: Transfer files over Wi-Fi via a QR Code
   maintainers:
     - ktnb@netbsd.org
@@ -186,7 +186,7 @@
   subrepo: main
   binname: qrcp
   visiblename: qrcp
-  version: 0.11.7
+  version: 0.12.0
   origversion: null
   status: newest
   licenses:
