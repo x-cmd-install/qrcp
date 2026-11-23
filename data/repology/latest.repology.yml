@@ -38,17 +38,17 @@
 - repo: chocolatey
   binname: qrcp
   visiblename: qrcp
-  version: 0.11.7
+  version: 0.12.0
   origversion: null
-  status: outdated
+  status: newest
   summary: Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal.
 - repo: freebsd
   srcname: net/qrcp
   binname: qrcp
   visiblename: net/qrcp
-  version: 0.11.7
-  origversion: 0.11.7_3
-  status: outdated
+  version: 0.12.0
+  origversion: null
+  status: newest
   summary: Transfer files over wifi by scanning a QR code
   maintainers:
     - tagattie@freebsd.org
