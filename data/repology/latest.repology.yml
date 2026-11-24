@@ -138,9 +138,9 @@
 - repo: nix_unstable
   srcname: qrcp
   visiblename: qrcp
-  version: 0.11.7
+  version: 0.12.0
   origversion: null
-  status: outdated
+  status: newest
   summary: Transfer files over wifi by scanning a QR code from your terminal
   maintainers:
     - fgaz@fgaz.me
@@ -174,9 +174,9 @@
   srcname: net/qrcp
   binname: qrcp
   visiblename: net/qrcp
-  version: 0.11.7
-  origversion: 0.11.7nb3
-  status: outdated
+  version: 0.12.0
+  origversion: null
+  status: newest
   summary: Transfer files over Wi-Fi via a QR Code
   maintainers:
     - ktnb@netbsd.org
