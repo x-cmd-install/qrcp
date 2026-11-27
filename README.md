@@ -46,12 +46,12 @@ Total: **4,590** lines of code across **38** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-27 | 1 | 8 | 3 | 1 | 1 | 8 |
-| last60d | 2026-09-27 | 2 | 10 | 4 | 1 | 2 | 12 |
-| 90d | 2026-08-28 | 2 | 10 | 4 | 1 | 3 | 12 |
-| last180d | 2026-05-30 | 2 | 10 | 4 | 1 | 4 | 12 |
-| 360d | 2025-12-01 | 2 | 12 | 5 | 2 | 4 | 13 |
-| last720d | 2024-12-06 | 5 | 28 | 5 | 11 | 4 | 39 |
+| 30d | 2026-10-28 | 1 | 8 | 3 | 1 | 1 | 8 |
+| last60d | 2026-09-28 | 2 | 10 | 4 | 1 | 2 | 12 |
+| 90d | 2026-08-29 | 2 | 10 | 4 | 1 | 3 | 12 |
+| last180d | 2026-05-31 | 2 | 10 | 4 | 1 | 4 | 12 |
+| 360d | 2025-12-02 | 2 | 12 | 5 | 2 | 4 | 13 |
+| last720d | 2024-12-07 | 5 | 28 | 5 | 11 | 4 | 39 |
 
 ## Release assets
 
@@ -98,4 +98,4 @@ Install metadata for qrcp lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261126.yml` · 2026-11-26T09:22:27Z._
+_Snapshot: `data/card/261127.yml` · 2026-11-27T09:11:26Z._
